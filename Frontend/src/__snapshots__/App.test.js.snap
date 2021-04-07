@@ -1,0 +1,102 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshop testing snapshot for App Component 1`] = `
+<div>
+  <div
+    className="jumbotron"
+  >
+    <div
+      className="jumboContainer"
+    >
+      <h1
+        className="jumboHeading"
+      >
+        iTunes search app
+      </h1>
+      <p
+        className="jumboWriteUp"
+      >
+        Search iTunes database for your favourite Music, Movies, Books and Podcasts
+      </p>
+    </div>
+    <select
+      className="dropDown"
+      onChange={[Function]}
+    >
+      <option
+        value={
+          Array [
+            "musicTrack",
+          ]
+        }
+      >
+        Music
+      </option>
+      <option
+        value={
+          Array [
+            "movie",
+          ]
+        }
+      >
+        Movies
+      </option>
+      <option
+        value={
+          Array [
+            "podcast",
+          ]
+        }
+      >
+        Podcast
+      </option>
+      <option
+        value={
+          Array [
+            "ebook",
+          ]
+        }
+      >
+        Ebook
+      </option>
+    </select>
+    <input
+      className="searchInput"
+      onChange={[Function]}
+      placeholder="search"
+    />
+    <button
+      onClick={[Function]}
+    >
+      Submit
+    </button>
+  </div>
+  <div
+    className="container"
+  >
+    <div
+      className="row"
+    />
+  </div>
+  <div
+    className="jumbotron"
+  >
+    <div
+      className="jumboContainer"
+    >
+      <h1
+        className="jumboHeading"
+      >
+        Favourites
+      </h1>
+    </div>
+  </div>
+  <div
+    className="container"
+  >
+    <div
+      className="row"
+    />
+  </div>
+</div>
+`;

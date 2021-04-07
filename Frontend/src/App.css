@@ -1,0 +1,42 @@
+.jumbotron {
+  text-align: center;
+  background-image: linear-gradient(
+    to bottom right,
+    tomato,
+    rgb(247, 118, 139)
+  );
+}
+
+.jumboHeading {
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 80px;
+  color: white;
+}
+
+.jumboWriteUp {
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 24px;
+  color: white;
+}
+
+.dropDown {
+  background-color: white;
+  color: black;
+  text-decoration: none;
+  border: none;
+  padding: 10px;
+  width: 200px;
+  text-align: center;
+  border-radius: 50px;
+  text-transform: uppercase;
+}
+
+.searchInput {
+  margin-left: 35px;
+}
+
+.returnData {
+  text-align: center;
+}
